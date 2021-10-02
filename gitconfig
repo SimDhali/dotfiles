@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = simran.piers.dhaliwal@gmail.com
+	name = Simran Dhaliwal
